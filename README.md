@@ -12,6 +12,8 @@
 
 ![Education](https://img.shields.io/badge/类型-班级信息仓库-0d3b6e?style=flat-square) ![Projects](https://img.shields.io/badge/项目清单-16%20个-22d3ee?style=flat-square) ![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)
 
+**简体中文** · [English](README.en.md)
+
 </div>
 
 ---
